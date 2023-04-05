@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API-GATEWAY/API-GATEWAY.iml" filepath="$PROJECT_DIR$/API-GATEWAY/API-GATEWAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-server/Eureka-server.iml" filepath="$PROJECT_DIR$/Eureka-server/Eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservices_demo.iml" filepath="$PROJECT_DIR$/.idea/Microservices_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/department/department.iml" filepath="$PROJECT_DIR$/department/department.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee/employee.iml" filepath="$PROJECT_DIR$/employee/employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-server/src/main/main.iml" filepath="$PROJECT_DIR$/Eureka-server/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-server/src/test/test.iml" filepath="$PROJECT_DIR$/Eureka-server/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
